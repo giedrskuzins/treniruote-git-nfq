@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+git_ignored/
+config.php
